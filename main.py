@@ -16,7 +16,7 @@ df.head()
 
 df.isnull().sum()
 
-df.duplicated().sum()
+
 
 vectorizer = TfidfVectorizer()
 
